@@ -2,7 +2,6 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-<img src="assets/meu-avatar.gif" alt="Meu avatar" width="200" height="150">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micaellimaj&theme=holi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micaellimaj&layout=donut&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
@@ -23,6 +22,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="Pycharm" width="50" height="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50">
 </div>
+
+<img src="6R3DBD98CYA3EAV0.gif" alt="Meu avatar" width="275" height="150">
 
           
 
