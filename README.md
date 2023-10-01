@@ -20,10 +20,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="50" height="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="Pycharm" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50">
+
 </div>
 
-<img src="6R3DBD98CYA3EAV0.gif" alt="Meu avatar" width="275" height="150">
+<img src="6R3DBD98CYA3EAV0.gif" alt="Meu avatar" width="275" height="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50">
 
           
 
