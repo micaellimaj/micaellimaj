@@ -1,5 +1,5 @@
-### Olá eu sou Micael José 👋👨🏽‍💻
-Analista de Dados em formação, graduando em Análise e Desenvolvimento de Sistemas. Possuo habilidades em análise de dados, com foco em Python, SQL, Power BI, Machine Learning e visualização de dados.
+### Olá eu sou Micael 👋👨🏽‍💻
+🎲 Analista de Dados em formação, graduando em Análise e Desenvolvimento de Sistemas. Possuo habilidades em análise de dados, com foco em Python, SQL, Power BI, Machine Learning e visualização de dados.🎲
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
