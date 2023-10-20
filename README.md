@@ -15,7 +15,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50">          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="50" height="50">
 <img src="https://cdn-icons-png.flaticon.com/128/9544/9544010.png" alt="SQL Logo" width="50" height="50">
-<img src="https://joyfulcraftsmen.com/wp-content/uploads/2017/02/dax_icon.png" alt="Dax Logo" width="50" height="50">
+
 
 </div>
 
