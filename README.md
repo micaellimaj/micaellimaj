@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micaellimaj&layout=donut&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
 
-##  Linguagens que eu utilizo:
+###  Linguagens que eu utilizo:
 
 <div
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50">          
@@ -19,7 +19,7 @@
 
 </div>
 
-## Softwares que eu utilizo:
+### Softwares que eu utilizo:
 <div         
 <img src="https://ww2.freelogovectors.net/wp-content/uploads/2017/04/power-bi-logo.png?lossy=1ssl=1" alt="Power bi Logo" width="50" height="50">
 <img src="https://ww2.freelogovectors.net/wp-content/uploads/2017/04/power-bi-logo.png?lossy=1ssl=1" alt="Power bi Logo" width="50" height="50">
