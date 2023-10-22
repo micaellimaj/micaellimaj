@@ -1,4 +1,4 @@
-### Olá eu sou Micael 👋👨🏽‍💻
+## Olá eu sou Micael 👋👨🏽‍💻
 🎲📈 Possuo habilidades em análise de dados, com foco em Python, SQL, Power BI, Machine Learning e visualização de dados  📉🎲
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
