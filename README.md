@@ -28,7 +28,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="Pycharm" width="50" height="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50">
 
-<img src="6R3DBD98CYA3EAV0.gif" min-width="300px" max-width="350px" width="350px" align="right" alt="meu avatar">
+<img src="6R3DBD98CYA3EAV0.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="meu avatar">
           
 </div>
 
