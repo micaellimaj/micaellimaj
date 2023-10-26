@@ -1,16 +1,14 @@
 # Olá eu sou Micael 👋👨🏽‍💻
 🎲📈 Possuo habilidades em análise de dados, com foco em Python, SQL, Power BI, Machine Learning e visualização de dados.
 
-## Formas de Contato 🍻:
+### Formas de Contato 🍻:
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-
 <img src="https://cdn-icons-png.flaticon.com/128/2621/2621303.png" alt="Python Logo" width="50" height="50">
-<img src="seaborn.png"  width="50" height="50" align="right" alt="seaborn logo">
-<img src="pandas.png"  width="50" height="50" align="right" alt="pandas logo">
-<img src="matplotlib.png"  width="50" height="50" align="right" alt="matplotlib logo">
+<img src="sklearn.png"  width="50" height="50" align="right" alt="skelearn logo">
+<img src="pandas.png"  width="50" height="50" align="right" alt="skelearn logo">
+<img src="seaborn.png"  width="50" height="50" align="right" alt="skelearn logo">
 <img src="sklearn.png"  width="50" height="50" align="right" alt="skelearn logo">
 
 
@@ -20,7 +18,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micaellimaj&layout=donut&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
 
-##  Linguagens que eu utilizo no cotidiano 💻:
+###  Linguagens que eu utilizo no cotidiano 💻:
 
 <div
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50">          
@@ -30,7 +28,7 @@
 
 </div>
 
-## Softwares que eu utilizo 📶:
+### Softwares que eu utilizo 📶:
 <div         
 <img src="https://ww2.freelogovectors.net/wp-content/uploads/2017/04/power-bi-logo.png?lossy=1ssl=1" alt="Power bi Logo" width="50" height="50">
 <img src="https://ww2.freelogovectors.net/wp-content/uploads/2017/04/power-bi-logo.png?lossy=1ssl=1" alt="Power bi Logo" width="50" height="50">
