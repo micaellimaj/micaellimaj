@@ -5,11 +5,8 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-<img src="https://cdn-icons-png.flaticon.com/128/2621/2621303.png" alt="Python Logo" width="50" height="50">
-<img src="pandas.png"  width="50" height="50" align="right" alt="pandas logo">
-<img src="seaborn.png"  width="50" height="50" align="right" alt="seaborn logo">
-<img src="sklearn.png"  width="50" height="50" align="right" alt="skelearn logo">
-<img src="matplotlib.png"  width="50" height="50" align="right" alt="matplotlib logo">
+<img src="https://cdn-icons-png.flaticon.com/128/2621/2621303.png" align="right" alt="meu avatar">
+
 
 
 
@@ -41,6 +38,13 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 Logo">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3 Logo">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="css3 Logo">
+
+### Principais Bibliotecas: 
+
+<img src="pandas.png"  width="50" height="50" alt="pandas logo">
+<img src="seaborn.png"  width="50" height="50"  alt="seaborn logo">
+<img src="sklearn.png"  width="50" height="50" alt="skelearn logo">
+<img src="matplotlib.png"  width="50" height="50"  alt="matplotlib logo">
 
 <img src="6R3DBD98CYA3EAV0.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="meu avatar">
           
