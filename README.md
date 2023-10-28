@@ -5,7 +5,7 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-<img src="https://cdn-icons-png.flaticon.com/128/2621/2621303.png" min-width="100px" max-width="100px" width="100px" align="right" alt="meu avatar">
+<img src="https://cdn-icons-png.flaticon.com/128/2621/2621303.png" min-width="40px" max-width="40px" width="40px" align="right" alt="meu avatar">
 
 
 
