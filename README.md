@@ -41,12 +41,13 @@
 <img src="seaborn.png"  width="50" height="50"  alt="seaborn logo">
 <img src="sklearn.png"  width="50" height="50" alt="skelearn logo">
 <img src="matplotlib.png"  width="50" height="50"  alt="matplotlib logo">
+<img src="6R3DBD98CYA3EAV0.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="meu avatar">
 
 ### Formas de Contato 🍻:
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-<img src="6R3DBD98CYA3EAV0.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="meu avatar">
+
           
 </div>
 
