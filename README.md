@@ -1,11 +1,7 @@
 # Olá eu sou Micael 👋👨🏽‍💻
 🎲📈 Possuo habilidades em análise de dados, com foco em Python, SQL, Power BI, Machine Learning e visualização de dados.
 
-### Formas de Contato 🍻:
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-<img src="https://cdn-icons-png.flaticon.com/128/2621/2621303.png" min-width="40px" max-width="40px" width="40px" align="right" alt="meu avatar">
 
 
 
@@ -13,7 +9,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micaellimaj&theme=holi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micaellimaj&layout=donut&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://cdn-icons-png.flaticon.com/128/2621/2621303.png" min-width="40px" max-width="40px" width="40px" align="right" alt="meu avatar">
 
 
 </div>
@@ -45,6 +41,12 @@
 <img src="seaborn.png"  width="50" height="50"  alt="seaborn logo">
 <img src="sklearn.png"  width="50" height="50" alt="skelearn logo">
 <img src="matplotlib.png"  width="50" height="50"  alt="matplotlib logo">
+
+### Formas de Contato 🍻:
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
+![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 
 <img src="6R3DBD98CYA3EAV0.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="meu avatar">
           
