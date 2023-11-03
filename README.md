@@ -11,8 +11,18 @@
 Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyden (2023-) e atualmente estudo <b> Análise de dados </b> pela EBAC - Escola Britância de Artes Criativas e Tecnologia. Possuo habilidades em análise de dados com foco em <b>python</b> , <b>SQL</b>, <b>Power BI</b>, <b>Machine Learning</b> e <b>Visualização de dados</b>. Também gosto de aprender coisas novas e busco aprimorar e desenvolver mais habilidades  na <b>área de dados</b>.
 <br><br>
 
-🎲📈 Possuo habilidades em análise de dados, com foco em Python, SQL, Power BI, Machine Learning e visualização de dados.
-
+<div align="center">
+  <table>
+    <tr>
+      <td><b>🧑🏾‍💻 Analista e desenvovedor de sistemas </b></td>
+      <td><b>📊 Analista de dados</b></td>
+    </tr>
+    <tr>
+      <td><img src="ADS.gif" width="300px" height="170px"></td>
+      <td><img src="DataAnalytics.gif" width="300px" height="170px"> </td>
+    </tr>
+  </table>
+</div>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micaellimaj&theme=holi)
