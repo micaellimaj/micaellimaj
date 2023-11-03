@@ -1,13 +1,12 @@
 # Olá eu sou Micael 👋👨🏽‍💻
 <img align="right" src="https://komarev.com/ghpvc/?username=micaellimaj&color=0000FF"><br>
 </div>
+
+<img src="WELCOME.gif" width="700" style="display: block; margin: 0 auto;" alt="B99">
+
+
+
 🎲📈 Possuo habilidades em análise de dados, com foco em Python, SQL, Power BI, Machine Learning e visualização de dados.
-
-
-  <img src="WELCOME.gif"  width="750" align="center" alt="meu avatar">
-
-
-
 
 
 
