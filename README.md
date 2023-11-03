@@ -4,7 +4,7 @@
 🎲📈 Possuo habilidades em análise de dados, com foco em Python, SQL, Power BI, Machine Learning e visualização de dados.
 
 
-  <img src="WELCOME.png" min-width="40px" max-width="40px" width="40px" align="right" alt="meu avatar">
+  <img src="WELCOME.gif"  width="750" align="center" alt="meu avatar">
 
 
 
