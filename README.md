@@ -25,10 +25,6 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micaellimaj&theme=holi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micaellimaj&layout=donut&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://cdn-icons-png.flaticon.com/128/2621/2621303.png" min-width="40px" max-width="40px" width="40px" align="right" alt="meu avatar">
-
 
 </div>
 
@@ -45,6 +41,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
 
 ###  Linguagens que eu mais uso no cotidiano 💻:
+
 
 <div
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Logo" width="50" height="50">          
@@ -66,6 +63,8 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micaellimaj&theme=holi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micaellimaj&layout=donut&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
           
 </div>
 
