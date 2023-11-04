@@ -5,19 +5,25 @@
 <img src="WELCOME.gif" width="700" style="display: block; margin: 0 auto;" alt="B99">
 
 <div align='center'>
-  <b>"Tudo o que eu falo é de verdade. Na minha idade, a verdade é a minha liberdade" - Antonio Abujamra</b>
+  <b>"Viver é arriscar tudo. Caso contrário você é apenas um pedaço inerte de moléculas montadas aleatoriamente à deriva onde o universo te sopra." - Rick Sanchez</b>
 </div><br>
 
 Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyden (2023-) e atualmente estudo <b> Análise de dados </b> pela EBAC - Escola Britância de Artes Criativas e Tecnologia. Possuo habilidades em análise de dados com foco em <b>python</b> , <b>SQL</b>, <b>Power BI</b>, <b>Machine Learning</b> e <b>Visualização de dados</b>. Também gosto de aprender coisas novas e busco aprimorar e desenvolver mais habilidades  na <b>área de dados</b>.
 <br><br>
 
-🎲📈 Possuo habilidades em análise de dados, com foco em Python, SQL, Power BI, Machine Learning e visualização de dados.
+<div align="center">
+  <table>
+    <tr>
+      <td><b>🧑🏾‍💻 Analista e desenvovedor de sistemas </b></td>
+      <td><b>📊 Analista de dados</b></td>
+    </tr>
+    <tr>
+      <td><img src="ADS.gif" width="300px" height="200px"></td>
+      <td><img src="DataAnalytics.gif" width="300px" height="200px"> </td>
+    </tr>
+  </table>
+</div>
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micaellimaj&theme=holi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micaellimaj&layout=donut&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://cdn-icons-png.flaticon.com/128/2621/2621303.png" min-width="40px" max-width="40px" width="40px" align="right" alt="meu avatar">
 
 
 </div>
@@ -35,6 +41,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
 
 ###  Linguagens que eu mais uso no cotidiano 💻:
+
 
 <div
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Logo" width="50" height="50">          
@@ -56,6 +63,8 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micaellimaj&theme=holi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micaellimaj&layout=donut&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
           
 </div>
 
