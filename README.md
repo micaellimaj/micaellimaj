@@ -1,4 +1,4 @@
-# Olá eu sou Micael 👋👨🏽‍💻
+# Olá eu sou Micael 👋🏾👨🏽‍💻
 <!-- contador de visitas -->
 <img align="right" src="https://komarev.com/ghpvc/?username=micaellimaj&color=0000FF"><br>
 </div>
@@ -22,7 +22,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 <div align="center">
   <table>
     <tr>
-      <td><b>🧑🏾‍💻 Analista e desenvovedor de sistemas </b></td>
+      <td><b>👨🏽‍🎓 Analista e desenvovedor de sistemas </b></td>
       <td><b>📊 Analista de dados</b></td>
     </tr>
     <tr>
@@ -83,7 +83,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 </div>
 
 
-### Formas de Contato 🍻:
+### Formas de Contato 🙏:
 
 [<img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="50"/>](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
 [<img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png" width="50"/>]()
