@@ -74,10 +74,12 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 
 ### Principais Bibliotecas: 
 <div  align="left">
-<img src="pandas.png"  width="50" height="50" alt="pandas logo">
-<img src="seaborn.png"  width="50" height="50"  alt="seaborn logo">
-<img src="sklearn.png"  width="50" height="50" alt="skelearn logo">
-<img src="matplotlib.png"  width="50" height="50"  alt="matplotlib logo">
+<img src="Imagem1-pandas.jpg"  width="50" height="50" alt="pandas logo">
+<img src="Imagem2-seaborn.jpg"  width="50" height="50"  alt="seaborn logo">
+<img src="Imagem3-matplotlib.jpg"  width="50" height="50" alt="matplotlib logo">
+<img src="Imagem4-sklearn.jpg"  width="50" height="50"  alt="sklearn logo">
+<img src="Imagem5-plotly.jpg"  width="50" height="50"  alt="plotly logo">
+<img src="Imagem6-Numpy.jpg"  width="50" height="50"  alt="numpy logo">
 </div>
 
 
