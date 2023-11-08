@@ -37,7 +37,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 </div>
 
 ### Ferramentas que eu utilizo 📶:
-<div>       
+<div align='center'>       
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="pacote office Logo">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws Logo">
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="aws Logo">
@@ -46,6 +46,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="aws Logo">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Logo">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL Logo">
 </div>  
 
 <!-- Lisa Simpsnos -->
@@ -61,9 +62,9 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 
 ###  Linguagens que eu mais uso no cotidiano 💻:
 <div>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Logo">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Logo">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Logo">
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python Logo"  width="50px">
+    <img src="https://cdn-icons-png.flaticon.com/128/9544/9544010.png" alt="sql Logo"  width="50px">
+    
     
 </div>
 <!-- Meu avatar -->
@@ -82,8 +83,9 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 
 ### Formas de Contato 🍻:
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[<img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="50"/>](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
+[<img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png" width="50"/>]()
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micaellimaj&theme=holi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micaellimaj&layout=donut&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
