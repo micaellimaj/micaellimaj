@@ -83,8 +83,9 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 
 ### Formas de Contato 🍻:
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[<img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="50"/>](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
+[<img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png" width="50"/>]()
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micaellimaj&theme=holi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micaellimaj&layout=donut&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
