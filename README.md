@@ -1,4 +1,4 @@
-# Olá eu sou Micael 👋🏾👨🏽‍💻
+# Olá eu sou Micael 👋🏽👨🏽‍💻
 <!-- contador de visitas -->
 <img align="right" src="https://komarev.com/ghpvc/?username=micaellimaj&color=0000FF"><br>
 </div>
