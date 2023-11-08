@@ -36,7 +36,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 
 </div>
 
-### Ferramentas que eu utilizo 📶:
+### Minhas Ferramentas 📶:
 <div align='center'>       
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="pacote office Logo">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws Logo">
@@ -72,14 +72,14 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 <!-- Fim Avatar -->
 
 
-### Principais Bibliotecas: 
+### Principais Bibliotecas Python 🐍: 
 <div  align="left">
-<img src="Imagem1-pandas.jpg"  width="45" height="60" alt="pandas logo">
-<img src="Imagem2-seaborn.jpg"  width="45" height="60"  alt="seaborn logo">
-<img src="Imagem3-matplotlib.jpg"  width="45" height="60" alt="matplotlib logo">
-<img src="Imagem4-sklearn.jpg"  width="45" height="60"  alt="sklearn logo">
-<img src="Imagem5-plotly.jpg"  width="45" height="60"  alt="plotly logo">
-<img src="Imagem6-Numpy.jpg"  width="45" height="60"  alt="numpy logo">
+<img src="Imagem1-pandas.jpg"  width="45" height="60" alt="pandas logo"  hspace="10" vspace="10">
+<img src="Imagem2-seaborn.jpg"  width="45" height="60"  alt="seaborn logo"  hspace="10" vspace="10">
+<img src="Imagem3-matplotlib.jpg"  width="45" height="60" alt="matplotlib logo"  hspace="10" vspace="10">
+<img src="Imagem4-sklearn.jpg"  width="45" height="60"  alt="sklearn logo"  hspace="10" vspace="10">
+<img src="Imagem5-plotly.jpg"  width="45" height="60"  alt="plotly logo"  hspace="10" vspace="10">
+<img src="Imagem6-Numpy.jpg"  width="45" height="60"  alt="numpy logo"  hspace="10" vspace="10">
 </div>
 
 
