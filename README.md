@@ -9,6 +9,9 @@
 <!-- FIM GIF B99 -->
 
 <!-- Sobre me -->
+
+## Sobre Mim ⭐️
+
 <div align='center'>
   <b>"Viver é arriscar tudo. Caso contrário você é apenas um pedaço inerte de moléculas montadas aleatoriamente à deriva onde o universo te sopra." - Rick Sanchez</b>
 </div><br>
@@ -60,7 +63,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 
 </div>
 
-### Minhas Ferramentas de estudo 📶:
+## Minhas Ferramentas de estudo 📶:
 <div align='center'>       
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="pacote office Logo">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws Logo">
@@ -73,7 +76,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL Logo">
 </div>  
 
-###  Linguagens que eu mais uso no cotidiano 💻:
+##  Linguagens que eu mais uso no cotidiano 💻:
 <div>
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python Logo"  width="50px">
     <img src="https://cdn-icons-png.flaticon.com/128/9544/9544010.png" alt="sql Logo"  width="50px">
@@ -85,7 +88,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 <!-- Fim Avatar -->
 
 
-### Principais Bibliotecas Python 🐍: 
+## Principais Bibliotecas Python 🐍: 
 <div  align="left">
 <img src="Imagem1-pandas.jpg"  width="45" height="60" alt="pandas logo"  hspace="10" vspace="10">
 <img src="Imagem2-seaborn.jpg"  width="45" height="60"  alt="seaborn logo"  hspace="10" vspace="10">
@@ -96,11 +99,12 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 </div>
 
 
-### Formas de Contato 🙏:
+## Formas de Contato 🙏:
 
 [<img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="50"/>](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
 [<img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png" width="50"/>]()
 
+## Gerenciamento do meu GitHub 🕒:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micaellimaj&theme=holi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micaellimaj&layout=donut&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
