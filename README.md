@@ -33,6 +33,30 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 </div>
 <!-- Fim áreas de estudo -->
 
+<!-- Sobre me-->
+
+<b>Além da programação...</b>
+
+
+- Adoro ouvir música no spotify, principalmente músicas internacionais, tem como preferências músicas pop, indie e latina.
+- Gosto de assistir series de todos os gêneros, meus favoritos são mistério, fantasia e comédia, inclusive iniciei uma tradição de ver sitcoms na hora do almoço e estou vendo no momento Big Bang: A Teoria. 
+- Adoro organização e gosto de deixar as coisas visualmente bonitas, para me um ambiente organizado contribuir para uma mente organizada e focada. 
+- Gosto de caminhadas e passar um tempo ao ar livre, nada tão bom quando após passar um dia resolvendo problemas, ter um tempo com a gente mesmo para refrescar a mente e praticar autocuidado. 
+
+<!-- Fim Sobre me-->
+
+
+
+<!-- Lisa Simpsnos -->
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="lisa1.gif"  width="300px"></td>
+      <td><img src="lisa2.gif"  width="300px"></td>
+    </tr>
+  </table>
+</div>
+<!-- Fim Lisa -->
 
 </div>
 
@@ -48,17 +72,6 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Logo">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL Logo">
 </div>  
-
-<!-- Lisa Simpsnos -->
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="lisa1.gif"  width="300px"></td>
-      <td><img src="lisa2.gif"  width="300px"></td>
-    </tr>
-  </table>
-</div>
-<!-- Fim Lisa -->
 
 ###  Linguagens que eu mais uso no cotidiano 💻:
 <div>
