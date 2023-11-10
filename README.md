@@ -99,7 +99,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 </div>
 
 
-## Formas de Contato 🙏:
+## Formas de entrar em Contato 🙏:
 
 [<img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="50"/>](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
 [<img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png" width="50"/>]()
