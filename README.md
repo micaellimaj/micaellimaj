@@ -21,7 +21,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 
 <div align='center'>
 
-Para conhecer mais sobre meus projetos acesse meu [Portfólio de Analista de dados](https://bit.ly/Micael-Lima-Analista-de-dados-Portfolio)
+✧ Para conhecer mais sobre meus projetos acesse meu [Portfólio de Analista de dados](https://bit.ly/Micael-Lima-Analista-de-dados-Portfolio) ✧
 
 </div>
 
