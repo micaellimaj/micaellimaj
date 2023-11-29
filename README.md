@@ -32,8 +32,8 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 <div align="center">
   <table>
     <tr>
-      <td><b>👨🏽‍🎓 Analista e desenvolvedor de sistemas </b></td>
-      <td><b>📊 Analista de dados</b></td>
+      <td><b>👨🏽‍🎓 Analista e Desenvolvedor de Sistemas </b></td>
+      <td><b>📊 Analista de Dados</b></td>
     </tr>
     <tr>
       <td><img src="ADS.gif" width="300px" height="200px"></td>
