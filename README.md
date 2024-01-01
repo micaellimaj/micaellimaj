@@ -9,12 +9,22 @@
 <!-- FIM GIF B99 -->
 
 <!-- Sobre me -->
+
+## Sobre Mim ⭐️
+
 <div align='center'>
   <b>"Viver é arriscar tudo. Caso contrário você é apenas um pedaço inerte de moléculas montadas aleatoriamente à deriva onde o universo te sopra." - Rick Sanchez</b>
 </div><br>
 
-Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyden (2023-) e atualmente estudo <b> Análise de dados </b> pela EBAC - Escola Britância de Artes Criativas e Tecnologia. Possuo habilidades em análise de dados com foco em <b>python</b> , <b>SQL</b>, <b>Power BI</b>, <b>Machine Learning</b> e <b>Visualização de dados</b>. Também gosto de aprender coisas novas e busco aprimorar e desenvolver mais habilidades  na <b>área de dados</b>.
+Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyden (2023-) e atualmente estudo <b> Análise de dados </b> pela EBAC - Escola Britância de Artes Criativas e Tecnologia. Possuo habilidades em análise de dados com foco em <b>python</b> , <b>SQL</b>, <b>Power BI</b>, <b>Excel</b>, <b>Machine Learning</b>, <b>Visualização de dados</b> e <b>Big Data</b>. Também gosto de aprender coisas novas e busco aprimorar e desenvolver mais habilidades  na <b>área de dados</b>.
 <br><br>
+
+<div align='center'>
+
+✧ Para conhecer mais sobre meus projetos acesse meu [Portfólio de Analista de dados](https://bit.ly/Micael-Lima-Analista-de-dados-Portfolio) ✧
+
+</div>
+
 
 <!-- Fim sobre me -->
 
@@ -22,8 +32,8 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 <div align="center">
   <table>
     <tr>
-      <td><b>👨🏽‍🎓 Analista e desenvovedor de sistemas </b></td>
-      <td><b>📊 Analista de dados</b></td>
+      <td><b>👨🏽‍🎓 Analista e Desenvolvedor de Sistemas </b></td>
+      <td><b>📊 Analista de Dados</b></td>
     </tr>
     <tr>
       <td><img src="ADS.gif" width="300px" height="200px"></td>
@@ -31,12 +41,38 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
     </tr>
   </table>
 </div>
+<br>
 <!-- Fim áreas de estudo -->
 
+<!-- Sobre me-->
+
+<b>Além da programação...</b>
+
+
+- Adoro ouvir música no spotify, principalmente músicas internacionais, tem como preferências músicas pop, indie e latina.
+- Gosto de assistir series de todos os gêneros, meus favoritos são mistério, fantasia e comédia, inclusive iniciei uma tradição de ver sitcoms na hora do almoço e estou vendo no momento Big Bang: A Teoria. 
+- Adoro organização e gosto de deixar as coisas visualmente bonitas, para me um ambiente organizado contribuir para uma mente organizada e focada. 
+- Gosto de caminhadas e passar um tempo ao ar livre, nada tão bom quando após passar um dia resolvendo problemas, ter um tempo com a gente mesmo para refrescar a mente e praticar autocuidado. 
+<br>
+<!-- Fim Sobre me-->
+
+
+
+<!-- Lisa Simpsnos -->
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="lisa1.gif"  width="300px"></td>
+      <td><img src="lisa2.gif"  width="300px"></td>
+    </tr>
+  </table>
+</div>
+<br>
+<!-- Fim Lisa -->
 
 </div>
 
-### Minhas Ferramentas de estudo 📶:
+## Minhas Ferramentas de estudo 📶:
 <div align='center'>       
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="pacote office Logo">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws Logo">
@@ -49,18 +85,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL Logo">
 </div>  
 
-<!-- Lisa Simpsnos -->
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="lisa1.gif"  width="300px"></td>
-      <td><img src="lisa2.gif"  width="300px"></td>
-    </tr>
-  </table>
-</div>
-<!-- Fim Lisa -->
-
-###  Linguagens que eu mais uso no cotidiano 💻:
+##  Linguagens que eu mais uso no cotidiano 💻:
 <div>
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python Logo"  width="50px">
     <img src="https://cdn-icons-png.flaticon.com/128/9544/9544010.png" alt="sql Logo"  width="50px">
@@ -72,7 +97,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 <!-- Fim Avatar -->
 
 
-### Principais Bibliotecas Python 🐍: 
+## Principais Bibliotecas Python 🐍: 
 <div  align="left">
 <img src="Imagem1-pandas.jpg"  width="45" height="60" alt="pandas logo"  hspace="10" vspace="10">
 <img src="Imagem2-seaborn.jpg"  width="45" height="60"  alt="seaborn logo"  hspace="10" vspace="10">
@@ -83,11 +108,14 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 </div>
 
 
-### Formas de Contato 🙏:
+## Formas de entrar em Contato 🙏:
 
 [<img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="50"/>](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
-[<img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png" width="50"/>]()
+[<img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png" width="50"/>](mailto:micaeljose144@gmail.com)
 
+
+
+## Gerenciamento do meu GitHub 🕒:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micaellimaj&theme=holi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micaellimaj&layout=donut&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
