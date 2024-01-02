@@ -5,7 +5,9 @@
 <!--fim contador -->
 
 <!-- GIF B99 -->
-<img src="WELCOME.gif" width="800" style="display: block; margin: 0 auto;" alt="B99">
+<div align="center">
+ <td><img src="WELCOME.gif" width="700" style="display: block; margin: 0 auto;" alt="B99"> </td>
+  </div>
 <!-- FIM GIF B99 -->
 
 <!-- Sobre me -->
