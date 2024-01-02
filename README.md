@@ -83,6 +83,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Logo">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL Logo">
+
 </div>  
 
 ##  Linguagens que eu mais uso no cotidiano 💻:
@@ -105,6 +106,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 <img src="Imagem4-sklearn.jpg"  width="45" height="60"  alt="sklearn logo"  hspace="10" vspace="10">
 <img src="Imagem5-plotly.jpg"  width="45" height="60"  alt="plotly logo"  hspace="10" vspace="10">
 <img src="Imagem6-Numpy.jpg"  width="45" height="60"  alt="numpy logo"  hspace="10" vspace="10">
+<img src="pyarrow2.jpg"  width="45" height="60"  alt="pyarrow Logo" hspace="10" vspace="10">
 </div>
 
 
