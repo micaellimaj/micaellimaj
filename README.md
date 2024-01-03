@@ -5,7 +5,9 @@
 <!--fim contador -->
 
 <!-- GIF B99 -->
-<img src="WELCOME.gif" width="800" style="display: block; margin: 0 auto;" alt="B99">
+<div align="center">
+ <td><img src="WELCOME.gif" width="700" style="display: block; margin: 0 auto;" alt="B99"> </td>
+  </div>
 <!-- FIM GIF B99 -->
 
 <!-- Sobre me -->
@@ -36,8 +38,8 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
       <td><b>📊 Analista de Dados</b></td>
     </tr>
     <tr>
-      <td><img src="ADS.gif" width="300px" height="200px"></td>
-      <td><img src="DataAnalytics.gif" width="300px" height="200px"> </td>
+      <td><img src="theoffice.gif" width="350px" height="200px"></td>
+      <td><img src="DataAnalytics.gif" width="350px" height="200px"> </td>
     </tr>
   </table>
 </div>
@@ -62,8 +64,8 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 <div align="center">
   <table>
     <tr>
-      <td><img src="lisa1.gif"  width="300px"></td>
-      <td><img src="lisa2.gif"  width="300px"></td>
+      <td><img src="lisa1.gif"  width="350px" height="250px"></td>
+      <td><img src="lisa2.gif"  width="350px" height="250px"></td>
     </tr>
   </table>
 </div>
