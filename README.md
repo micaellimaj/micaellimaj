@@ -64,11 +64,10 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 <div align="center">
   <table>
     <tr>
-      <td><img src="lisa1.gif"  width="150px" height="125px"></td>
-      <td><img src="lisa2.gif"  width="150px" height="125px"></td>
-      <td><img src="burns1.gif"  width="150px" height="125px"></td>
-     <td><img src="burns2.gif"  width="150px" height="125px"></td>
-     <td><img src="burns3.gif"  width="150px" height="125px"></td>
+      <td><img src="lisa1.gif"  width="225px" height="170px"></td>
+      <td><img src="lisa2.gif"  width="225px" height="170px"></td>
+      <td><img src="burns1.gif"  width="225px" height="170px"></td>
+     <td><img src="burns3.gif"  width="225px" height="170px"></td>
     </tr>
   </table>
 </div>
