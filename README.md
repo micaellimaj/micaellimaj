@@ -38,8 +38,8 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
       <td><b>📊 Analista de Dados</b></td>
     </tr>
     <tr>
-      <td><img src="theoffice.gif" width="350px" height="200px"></td>
-      <td><img src="DataAnalytics.gif" width="350px" height="200px"> </td>
+      <td><img src="theoffice.gif" width="350px" height="215px"></td>
+      <td><img src="DataAnalytics.gif" width="350px" height="215px"> </td>
     </tr>
   </table>
 </div>
@@ -64,9 +64,9 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 <div align="center">
   <table>
     <tr>
-      <td><img src="lisa1.gif"  width="250px" height="180px"></td>
-      <td><img src="lisa2.gif"  width="250px" height="180px"></td>
-     <td><img src="burns3.gif"  width="250px" height="180px"></td>
+      <td><img src="lisa1.gif"  width="265px" height="190px"></td>
+      <td><img src="lisa2.gif"  width="265px" height="190px"></td>
+     <td><img src="lisa4.gif"  width="265px" height="190px"></td>
     </tr>
   </table>
 </div>
