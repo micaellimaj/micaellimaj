@@ -64,8 +64,9 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 <div align="center">
   <table>
     <tr>
-      <td><img src="lisa1.gif"  width="350px" height="250px"></td>
-      <td><img src="lisa2.gif"  width="350px" height="250px"></td>
+      <td><img src="lisa1.gif"  width="250px" height="180px"></td>
+      <td><img src="lisa2.gif"  width="250px" height="180px"></td>
+      <td><img src="lisa3.gif"  width="250px" height="180px"></td>
     </tr>
   </table>
 </div>
