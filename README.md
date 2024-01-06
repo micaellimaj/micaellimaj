@@ -43,7 +43,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
     </tr>
   </table>
 </div>
-<br>
+
 <!-- Fim áreas de estudo -->
 
 <!-- Sobre me-->
