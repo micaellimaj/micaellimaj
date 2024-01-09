@@ -38,8 +38,8 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
       <td><b>📊 Analista de Dados</b></td>
     </tr>
     <tr>
-      <td><img src="theoffice.gif" width="310px" height="200px"></td>
-      <td><img src="DataAnalytics.gif" width="310px" height="200px"> </td>
+      <td><img src="theoffice.gif" width="280px" height="200px"></td>
+      <td><img src="DataAnalytics.gif" width="280px" height="200px"> </td>
     </tr>
   </table>
 </div>
