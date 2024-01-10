@@ -12,7 +12,7 @@
 
 <!-- Sobre me -->
 
-### Sobre Mim ⭐️
+## Sobre Mim ⭐️
 
 <div align='center'>
   <b>"Viver é arriscar tudo. Caso contrário você é apenas um pedaço inerte de moléculas montadas aleatoriamente à deriva onde o universo te sopra." - Rick Sanchez</b>
