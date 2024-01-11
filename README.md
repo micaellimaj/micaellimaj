@@ -1,7 +1,12 @@
 # Olá eu sou Micael 👋🏽👨🏽‍💻
 <!-- contador de visitas -->
+[<img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="30"/>](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
+[<img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png" width="30"/>](mailto:micaeljose144@gmail.com)
 <img align="right" src="https://komarev.com/ghpvc/?username=micaellimaj&color=0000FF"><br>
 </div>
+
+
+
 <!--fim contador -->
 
 <!-- GIF B99 -->
@@ -110,14 +115,6 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 <img src="Imagem6-Numpy.jpg"  width="45" height="60"  alt="numpy logo"  hspace="10" vspace="10">
 <img src="pyarrow2.jpg"  width="45" height="60"  alt="pyarrow Logo" hspace="10" vspace="10">
 </div>
-
-
-## Formas de entrar em Contato 🙏:
-
-[<img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="50"/>](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
-[<img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png" width="50"/>](mailto:micaeljose144@gmail.com)
-
-
 
 ## Gerenciamento do meu GitHub 🕒:
 
