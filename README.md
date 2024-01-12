@@ -1,7 +1,12 @@
 # Olá eu sou Micael 👋🏽👨🏽‍💻
 <!-- contador de visitas -->
+[<img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="30"/>](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
+[<img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png" width="30"/>](mailto:micaeljose144@gmail.com)
 <img align="right" src="https://komarev.com/ghpvc/?username=micaellimaj&color=0000FF"><br>
 </div>
+
+
+
 <!--fim contador -->
 
 <!-- GIF B99 -->
@@ -19,7 +24,7 @@
 </div><br>
 
 Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyden (2023-) e atualmente estudo <b> Análise de dados </b> pela EBAC - Escola Britância de Artes Criativas e Tecnologia. Possuo habilidades em análise de dados com foco em <b>python</b> , <b>SQL</b>, <b>Power BI</b>, <b>Excel</b>, <b>Machine Learning</b>, <b>Visualização de dados</b> e <b>Big Data</b>. Também gosto de aprender coisas novas e busco aprimorar e desenvolver mais habilidades  na <b>área de dados</b>.
-<br><br>
+
 
 <div align='center'>
 
@@ -38,12 +43,12 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
       <td><b>📊 Analista de Dados</b></td>
     </tr>
     <tr>
-      <td><img src="theoffice.gif" width="350px" height="200px"></td>
-      <td><img src="DataAnalytics.gif" width="350px" height="200px"> </td>
+      <td><img src="theoffice.gif" width="280px" height="200px"></td>
+      <td><img src="DataAnalytics.gif" width="280px" height="200px"> </td>
     </tr>
   </table>
 </div>
-<br>
+
 <!-- Fim áreas de estudo -->
 
 <!-- Sobre me-->
@@ -55,7 +60,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 - Gosto de assistir series de todos os gêneros, meus favoritos são mistério, fantasia e comédia, inclusive iniciei uma tradição de ver sitcoms na hora do almoço e estou vendo no momento Big Bang: A Teoria. 
 - Adoro organização e gosto de deixar as coisas visualmente bonitas, para me um ambiente organizado contribuir para uma mente organizada e focada. 
 - Gosto de caminhadas e passar um tempo ao ar livre, nada tão bom quando após passar um dia resolvendo problemas, ter um tempo com a gente mesmo para refrescar a mente e praticar autocuidado. 
-<br>
+
 <!-- Fim Sobre me-->
 
 
@@ -64,13 +69,12 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 <div align="center">
   <table>
     <tr>
-      <td><img src="lisa1.gif"  width="250px" height="180px"></td>
-      <td><img src="lisa2.gif"  width="250px" height="180px"></td>
-     <td><img src="burns3.gif"  width="250px" height="180px"></td>
+      <td><img src="lisa1.gif"  width="280px" height="200px"></td>
+      <td><img src="lisa2.gif"  width="280px" height="200px"></td>
     </tr>
   </table>
 </div>
-<br>
+
 <!-- Fim Lisa -->
 
 </div>
@@ -111,14 +115,6 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 <img src="Imagem6-Numpy.jpg"  width="45" height="60"  alt="numpy logo"  hspace="10" vspace="10">
 <img src="pyarrow2.jpg"  width="45" height="60"  alt="pyarrow Logo" hspace="10" vspace="10">
 </div>
-
-
-## Formas de entrar em Contato 🙏:
-
-[<img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="50"/>](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
-[<img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png" width="50"/>](mailto:micaeljose144@gmail.com)
-
-
 
 ## Gerenciamento do meu GitHub 🕒:
 
