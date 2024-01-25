@@ -53,7 +53,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 
 <!-- Sobre me-->
 
-<b>Além da programação...</b>
+<b>Além da programação....</b>
 
 
 - Adoro ouvir música no spotify, principalmente músicas internacionais, tem como preferências músicas pop, indie e latina.
