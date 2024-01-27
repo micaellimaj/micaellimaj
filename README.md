@@ -1,4 +1,4 @@
-# Olá eu sou Micael 👋🏽👨🏽‍💻
+# Micael José de Lima 🤠 / Data Analytics Student 🎲
 <!-- contador de visitas -->
 [<img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="30"/>](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
 [<img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png" width="30"/>](mailto:micaeljose144@gmail.com)
@@ -11,7 +11,7 @@
 
 <!-- GIF B99 -->
 <div align="center">
- <td><img src="WELCOME.gif" width="700" style="display: block; margin: 0 auto;" alt="B99"> </td>
+ <td><img src="WELCOME.gif" width="600" style="display: block; margin: 0 auto;" alt="B99"> </td>
   </div>
 <!-- FIM GIF B99 -->
 
@@ -40,10 +40,10 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
   <table>
     <tr>
       <td><b>👨🏽‍🎓 Analista e Desenvolvedor de Sistemas </b></td>
-      <td><b>📊 Analista de Dados</b></td>
+      <td><b>👨🏽‍💻 Analista de Dados</b></td>
     </tr>
     <tr>
-      <td><img src="theoffice.gif" width="280px" height="200px"></td>
+      <td><img src="adss.gif" width="280px" height="200px"></td>
       <td><img src="DataAnalytics.gif" width="280px" height="200px"> </td>
     </tr>
   </table>
@@ -53,7 +53,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 
 <!-- Sobre me-->
 
-<b>Além da programação...</b>
+<b>Além da programação....</b>
 
 
 - Adoro ouvir música no spotify, principalmente músicas internacionais, tem como preferências músicas pop, indie e latina.
