@@ -57,9 +57,9 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 
 
 - Adoro ouvir música no spotify, principalmente músicas internacionais, tem como preferências músicas pop, indie e latina.
-- Gosto de assistir series de todos os gêneros, meus favoritos são mistério, fantasia e comédia, inclusive iniciei uma tradição de ver sitcoms na hora do almoço e estou vendo no momento Big Bang: A Teoria. 
-- Adoro organização e gosto de deixar as coisas visualmente bonitas, para me um ambiente organizado contribuir para uma mente organizada e focada. 
-- Gosto de caminhadas e passar um tempo ao ar livre, nada tão bom quando após passar um dia resolvendo problemas, ter um tempo com a gente mesmo para refrescar a mente e praticar autocuidado. 
+- Gosto de assistir series de todos os gêneros e costumo assistir sitcoms para me familiarizar com inglês.
+- Adoro organização e gosto de deixar as coisas visualmente bonitas, pois melhora minha eficiência, foco e aprendizado. 
+- Gosto de caminhadas e passar um tempo ao ar livre, ter um tempo comigo mesmo para refrescar a mente e praticar autocuidado. 
 
 <!-- Fim Sobre me-->
 
