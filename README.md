@@ -79,7 +79,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 
 </div>
 
-## Minhas Ferramentas de estudo 📶:
+## Ferramentas de estudo 📶:
 <div align='center'>       
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="pacote office Logo">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws Logo">
@@ -93,10 +93,13 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 
 </div>  
 
-##  Linguagens que eu mais uso no cotidiano 💻:
+##  Linguagens 💻:
 <div>
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python Logo"  width="50px">
     <img src="https://cdn-icons-png.flaticon.com/128/9544/9544010.png" alt="sql Logo"  width="50px">
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt="html Logo"  width="50px">
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="css Logo"  width="50px">
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript Logo"  width="50px">
     
     
 </div>
@@ -105,7 +108,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 <!-- Fim Avatar -->
 
 
-## Principais Bibliotecas Python 🐍: 
+##  Bibliotecas Python 🐍: 
 <div  align="left">
 <img src="Imagem1-pandas.jpg"  width="45" height="60" alt="pandas logo"  hspace="10" vspace="10">
 <img src="Imagem2-seaborn.jpg"  width="45" height="60"  alt="seaborn logo"  hspace="10" vspace="10">
@@ -116,7 +119,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 <img src="pyarrow2.jpg"  width="45" height="60"  alt="pyarrow Logo" hspace="10" vspace="10">
 </div>
 
-## Gerenciamento do meu GitHub 🕒:
+## Gerenciamento  🕒:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micaellimaj&theme=holi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micaellimaj&layout=donut&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
