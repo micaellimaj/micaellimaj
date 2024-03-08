@@ -126,7 +126,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
           
 </div>
 
-![snake gif](https://github.com/micaellimaj/micaellimaj/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
