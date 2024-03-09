@@ -23,7 +23,7 @@
   <b>"Viver é arriscar tudo. Caso contrário você é apenas um pedaço inerte de moléculas montadas aleatoriamente à deriva onde o universo te sopra." - Rick Sanchez</b>
 </div><br>
 
-Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyden (2023-) e atualmente estudo <b> Análise de dados </b> pela EBAC - Escola Britância de Artes Criativas e Tecnologia. Possuo habilidades em análise de dados com foco em <b>python</b> , <b>SQL</b>, <b>Power BI</b>, <b>Excel</b>, <b>Machine Learning</b>, <b>Visualização de dados</b> e <b>Big Data</b>. Também gosto de aprender coisas novas e busco aprimorar e desenvolver mais habilidades  na <b>área de dados</b>.
+Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyden (2023-) e atualmente meu foco de estudo tem sido <b> Análise de dados </b>. Possuo habilidades em análise de dados com foco em <b>python</b> , <b>SQL</b>, <b>Power BI</b>, <b>Excel</b>, <b>Machine Learning</b>, <b>Visualização de dados</b> e <b>Big Data</b>. Também gosto de aprender coisas novas e busco aprimorar e desenvolver mais habilidades  na <b>área de Programação e Dados</b>.
 
 
 <div align='center'>
