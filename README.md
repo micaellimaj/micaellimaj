@@ -121,8 +121,17 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 
 ## Gerenciamento  🕒:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micaellimaj&theme=holi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micaellimaj&layout=donut&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
+theme=ocean_dark 
+tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark 
+-->
+
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=micaellimaj&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=micaellimaj&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=micaellimaj&theme=tokyonight) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=micaellimaj&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=micaellimaj&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| :-: | :-: |
           
 </div>
 
