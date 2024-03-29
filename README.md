@@ -116,7 +116,7 @@ Sou graduando em <b>Análise e Desenvolvimento de Sistemas</b> pela Unifavip Wyd
 <img src="Imagem4-sklearn.jpg"  width="45" height="60"  alt="sklearn logo"  hspace="10" vspace="10">
 <img src="Imagem5-plotly.jpg"  width="45" height="60"  alt="plotly logo"  hspace="10" vspace="10">
 <img src="Imagem6-Numpy.jpg"  width="45" height="60"  alt="numpy logo"  hspace="10" vspace="10">
-<img src="pyarrow2.jpg"  width="45" height="60"  alt="pyarrow Logo" hspace="10" vspace="10">
+
 </div>
 
 ## Gerenciamento  🕒:
