@@ -1,4 +1,4 @@
-# Micael Lima / Estudante de dados 🎲
+# Micael Lima 🤠 / Estudante de dados 🎲
 <!-- contador de visitas -->
 [<img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="30"/>](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
 [<img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png" width="30"/>](mailto:micaeljose144@gmail.com)
