@@ -17,7 +17,7 @@
 
 <!-- Sobre me -->
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/star_2b50.png" alt="Star" width="25" height="25" /> About Me />
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/star_2b50.png" alt="Star" width="25" height="25" /> About Me:
 
 
 <div align='center'>
@@ -101,7 +101,7 @@ I am graduating in <b>Systems Analysis and Development</b> from Unifavip Wyden (
 
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Languages :
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Languages:
 <div>
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python Logo"  width="50px">
     <img src="https://cdn-icons-png.flaticon.com/128/9544/9544010.png" alt="sql Logo"  width="50px">
