@@ -11,7 +11,7 @@
 
 <!-- GIF B99 -->
 <div align="center">
- <td><img src="WELCOME.gif" width="600" style="display: block; margin: 0 auto;" alt="B99"> </td>
+ <td><img src="welcome (1).gif" width="900" style="display: block; margin: 0 auto;" alt="B99"> </td>
   </div>
 <!-- FIM GIF B99 -->
 
