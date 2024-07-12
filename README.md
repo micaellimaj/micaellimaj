@@ -9,14 +9,20 @@
 
 <!--fim contador -->
 
-
 <div align="center">
-    <img src="lineBar.png" width="100%" height="8px" style="display: block; margin: 0; padding: 0;"/>
-    <!-- GIF B99 -->
-    <img src="welcome (1).gif" width="900" style="display: block; margin: 0; padding: 0;" alt="B99">
-    <!-- FIM GIF B99 -->
-    <img src="lineBar.png" width="100%" height="8px" style="display: block; margin: 0; padding: 0;"/>
+    <table cellspacing="0" cellpadding="0">
+        <tr>
+            <td><img src="lineBar.png" width="100%" height="8px" style="display: block; margin: 0; padding: 0;"></td>
+        </tr>
+        <tr>
+            <td><img src="welcome (1).gif" width="900" style="display: block; margin: 0; padding: 0;" alt="B99"></td>
+        </tr>
+        <tr>
+            <td><img src="lineBar.png" width="100%" height="8px" style="display: block; margin: 0; padding: 0;"></td>
+        </tr>
+    </table>
 </div>
+
 
 <!-- Sobre me -->
 
