@@ -9,13 +9,15 @@
 <!--fim contador -->
 
 <div align="center" style="line-height: 0;">
-    <img src="lineBar.png" width="100%" height="5px" style="display: block; margin: 0; padding: 0;"/>
-    <img src="welcome (1).gif" width="900" style="display: block; margin: 0 auto; padding: 0;" alt="B99">
-    <img src="lineBar.png" width="100%" height="5px" style="display: block; margin: 0; padding: 0;"/>
+     <img src="lineBar.png" width="100%" height="5px" style="display: block; margin: 0; padding: 0;"/>
+<table>
+  <tr>
+    <td><img src="WELCOME.gif" alt="pagina1" width="600"/></td>
+    <td><img src="itsme.jpeg" alt="pagina2" width="300"/></td>
+  </tr>
+</table>
+ <img src="lineBar.png" width="100%" height="5px" style="display: block; margin: 0; padding: 0;"/>
 </div>
-
-
-
 
 <!-- Sobre me -->
 
