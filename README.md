@@ -19,6 +19,9 @@
 
 <!-- Sobre me -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=15&pause=1000&random=false&width=435&lines=%F0%9F%98%8E+hello%2C+welcome+to+my+profile!;%F0%9F%A4%93+check+my+projects!;%F0%9F%98%BA+feel+free+to+interact+with+me!;%F0%9F%99%8F+Let's+connect%3F+follow+me+on+LinkedIn+and+GitHub!)](https://git.io/typing-svg)
+
+
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/star_2b50.png" alt="Star" width="25" height="25" /> About Me:
 
 
@@ -156,7 +159,6 @@ tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:9C27B0&height=120&section=footer"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&random=false&width=435&lines=%F0%9F%98%8E+hello%2C+welcome+to+my+profile!;%F0%9F%A4%93+check+my+projects!;%F0%9F%98%BA+feel+free+to+interact+with+me;%F0%9F%99%8F+Let's+connect%3F+follow+me+on+LinkedIn+and+GitHub!)](https://git.io/typing-svg)
 
 
 
