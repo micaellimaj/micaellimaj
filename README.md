@@ -10,14 +10,15 @@
 <!--fim contador -->
 
 
-
-
-<!-- GIF B99 -->
 <div align="center">
- <td><img src="welcome (1).gif" width="900" style="display: block; margin: 0 auto;" alt="B99"> </td>
-  </div>
-<!-- FIM GIF B99 -->
-
+    <img src="lineBar.png" width="100%" height="8px"/>
+    <!-- GIF B99 -->
+    <div>
+        <img src="welcome (1).gif" width="900" style="display: block; margin: 0 auto;" alt="B99">
+    </div>
+    <!-- FIM GIF B99 -->
+    <img src="lineBar.png" width="100%" height="8px"/>
+</div>
 <!-- Sobre me -->
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/star_2b50.png" alt="Star" width="25" height="25" /> About Me:
