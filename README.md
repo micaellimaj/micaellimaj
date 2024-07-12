@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Dark%20Skin%20Tone.png" alt="Hand with Fingers Splayed Dark Skin Tone" width="35" height="35" /> Micael Lima - Data Analytics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25"/>
 <!-- contador de visitas -->
 
-<img align="right" src="https://komarev.com/ghpvc/?username=micaellimaj&color=0000FF"><br>
+
 </div>
 
 
@@ -139,6 +139,7 @@ I am graduating in <b>Systems Analysis and Development</b> from Unifavip Wyden (
 [<img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png" width="50"/>](mailto:micaeljose144@gmail.com)
 
 ##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Dark%20Skin%20Tone.png" alt="Man Technologist Dark Skin Tone" width="25" height="25" /> Management:
+<img align="right" src="https://komarev.com/ghpvc/?username=micaellimaj&color=0000FF"><br>
 <!-- 
 theme=ocean_dark 
 tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark 
