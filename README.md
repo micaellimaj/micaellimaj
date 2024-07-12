@@ -153,6 +153,10 @@ tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark
           
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:9C27B0&height=120&section=footer"/>
+
+
+
 
 
 
