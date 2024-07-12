@@ -114,7 +114,7 @@ I am graduating in <b>Systems Analysis and Development</b> from Unifavip Wyden (
     
 </div>
 <!-- Meu avatar -->
-<img src="analytics2.gif" min-width="300px" max-width="350px" width="350px" align="right" alt="meu avatar">
+<img src="analytics2.gif" min-width="300px" max-width="300px" width="350px" align="right" alt="meu avatar">
 <!-- Fim Avatar -->
 
 
