@@ -12,7 +12,7 @@
      <img src="lineBar.png" width="100%" height="5px" style="display: block; margin: 0; padding: 0;"/>
 <table>
   <tr>
-    <td><img src="WELCOME.gif" alt="pagina1" width="600"/></td>
+    <td><img src="WELCOME.gif" alt="pagina1" width="500"/></td>
     <td><img src="itsme.jpeg" alt="pagina2" width="300"/></td>
   </tr>
 </table>
