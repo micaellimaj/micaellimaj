@@ -11,14 +11,13 @@
 
 
 <div align="center">
-    <img src="lineBar.png" width="100%" height="8px"/>
+    <img src="lineBar.png" width="100%" height="8px" style="display: block; margin: 0; padding: 0;"/>
     <!-- GIF B99 -->
-    <div>
-        <img src="welcome (1).gif" width="900" style="display: block; margin: 0 auto;" alt="B99">
-    </div>
+    <img src="welcome (1).gif" width="900" style="display: block; margin: 0; padding: 0;" alt="B99">
     <!-- FIM GIF B99 -->
-    <img src="lineBar.png" width="100%" height="8px"/>
+    <img src="lineBar.png" width="100%" height="8px" style="display: block; margin: 0; padding: 0;"/>
 </div>
+
 <!-- Sobre me -->
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/star_2b50.png" alt="Star" width="25" height="25" /> About Me:
