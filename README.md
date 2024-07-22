@@ -31,7 +31,7 @@
   <b>"Living is risking everything. Otherwise you are just an inert piece of randomly assembled molecules drifting wherever the universe throws you." - Rick Sanchez</b>
 </div><br>
 
-I am graduating in <b>Systems Analysis and Development</b> from Unifavip Wyden (2023-) and currently my focus of study has been <b> Data Analysis </b>. I have skills in data analysis with a focus on <b>python</b>, <b>SQL</b>, <b>Power BI</b>, <b>Excel</b>, <b>Machine Learning</b>, <b>Data Visualization</b> and <b>Big Data</b>. I also like learning new things and I seek to improve and develop more skills in the <b>Programming and Data area</b>.
+☆ I am graduating in <b>Systems Analysis and Development</b> from Unifavip Wyden (2023-) and currently my focus of study has been <b> Data Analysis </b>. I have skills in data analysis with a focus on <b>python</b>, <b>SQL</b>, <b>Power BI</b>, <b>Excel</b>, <b>Machine Learning</b>, <b>Data Visualization</b> and <b>Big Data</b>. I also like learning new things and I seek to improve and develop more skills in the <b>Programming and Data area</b>. ☆
 
 
 <div align='center'>
@@ -65,10 +65,10 @@ I am graduating in <b>Systems Analysis and Development</b> from Unifavip Wyden (
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="30" height="30" /> Beyond programming....</b>
 
 
-- ☆ I love listening to music on Spotify, especially international music, my preferences are pop, indie and Latin music.
-- ☆ I like watching series of all genres and I usually watch sitcoms to familiarize myself with English.
-- ☆ I love organization and I like making things visually beautiful, as it improves my efficiency, focus and learning. 
-- ☆ I like hiking and spending time outdoors, having time to myself to refresh my mind and practice self-care.
+-  I love listening to music on Spotify, especially international music, my preferences are pop, indie and Latin music.
+-  I like watching series of all genres and I usually watch sitcoms to familiarize myself with English.
+-  I love organization and I like making things visually beautiful, as it improves my efficiency, focus and learning. 
+-  I like hiking and spending time outdoors, having time to myself to refresh my mind and practice self-care.
 <!-- Fim Sobre me-->
 
 
@@ -89,14 +89,14 @@ I am graduating in <b>Systems Analysis and Development</b> from Unifavip Wyden (
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Tools:
 
-<div align='center' align="center">       
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="pacote office Logo">
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws Logo">
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="aws Logo">
-<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="aws Logo">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="aws Logo">
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="aws Logo">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
+<div align="center">       
+<img align="center" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="pacote office Logo">
+<img align="center" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws Logo">
+<img align="center" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="aws Logo">
+<img align="center" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="aws Logo">
+<img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="aws Logo">
+<img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="aws Logo">
+<img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
 <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Logo">
 <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL Logo">
 <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
