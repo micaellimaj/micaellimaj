@@ -28,7 +28,7 @@
 
 
 <div align='center'>
-  <b>"Living is risking everything. Otherwise you are just an inert piece of randomly assembled molecules drifting wherever the universe throws you." - Rick Sanchez</b>
+  <b>"But it's not about hitting hard. It's about how much you can take a beating and move on. How much are you able to take and keep trying. That's how you can win." - Rock Balboa</b>
 </div><br>
 
 ☆ I am graduating in <b>Systems Analysis and Development</b> from Unifavip Wyden (2023-) and currently my focus of study has been <b> Data Analysis </b>. I have skills in data analysis with a focus on <b>python</b>, <b>SQL</b>, <b>Power BI</b>, <b>Excel</b>, <b>Machine Learning</b>, <b>Data Visualization</b> and <b>Big Data</b>. I also like learning new things and I seek to improve and develop more skills in the <b>Programming and Data area</b>. ☆
