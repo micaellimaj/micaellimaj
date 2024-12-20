@@ -51,7 +51,7 @@
       <td><b>👨🏽‍💻 Data Analyst</b></td>
     </tr>
     <tr>
-      <td><img src="adss.gif" width="280px" height="200px"></td>
+      <td><img src="gatomaluco.webp" width="280px" height="200px"></td>
       <td><img src="DataAnalytics.gif" width="280px" height="200px"> </td>
     </tr>
   </table>
