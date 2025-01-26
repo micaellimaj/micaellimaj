@@ -126,7 +126,7 @@
     
 </div>
 <!-- Meu avatar -->
-<img src="analytics2.gif" min-width="200px" max-width="200px" width="250px" align="right" alt="meu avatar">
+<img src="analytics2.gif" min-width="250px" max-width="250px" width="300px" align="right" alt="meu avatar">
 <!-- Fim Avatar -->
 
 
