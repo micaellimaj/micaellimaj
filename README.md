@@ -170,8 +170,9 @@
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" width="30" height="30" /> Contact:
-[<img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="50"/>](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
-[<img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png" width="50"/>](mailto:micaeljose144@gmail.com)
+[<img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="40"/>](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
+[<img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png" width="40"/>](mailto:micaeljose144@gmail.com)
+
 
 ##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Dark%20Skin%20Tone.png" alt="Man Technologist Dark Skin Tone" width="25" height="25" /> Management:
 <img align="right" src="https://komarev.com/ghpvc/?username=micaellimaj&color=0000FF"><br>
