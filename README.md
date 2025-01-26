@@ -132,7 +132,7 @@
 
 
  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Python Libraries:
- 
+ <!--
 <div  align="left">
 <img src="Imagem1-pandas.jpg"  width="45" height="60" alt="pandas logo"  hspace="10" vspace="10">
 <img src="Imagem2-seaborn.jpg"  width="45" height="60"  alt="seaborn logo"  hspace="10" vspace="10">
@@ -140,6 +140,31 @@
 <img src="Imagem4-sklearn.jpg"  width="45" height="60"  alt="sklearn logo"  hspace="10" vspace="10">
 <img src="Imagem5-plotly.jpg"  width="45" height="60"  alt="plotly logo"  hspace="10" vspace="10">
 <img src="Imagem6-Numpy.jpg"  width="45" height="60"  alt="numpy logo"  hspace="10" vspace="10">
+-->
+
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" />
+</a>
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" />
+</a>
+<a href="https://seaborn.pydata.org/" target="_blank">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" />
+</a>
+<a href="https://matplotlib.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" />
+</a>
+<a href="https://plotly.com/" target="_blank">
+  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="50" />
+</a>
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="65" />
+</a>
+
+
+
+
+
 
 </div>
 
