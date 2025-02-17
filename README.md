@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Dark%20Skin%20Tone.png" alt="Hand with Fingers Splayed Dark Skin Tone" width="35" height="35" /> Micael José de Lima - Data Scientist <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25"/>
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Dark%20Skin%20Tone.png" alt="Hand with Fingers Splayed Dark Skin Tone" width="35" height="35" /> Micael José de Lima - Data Analytics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25"/>
 <!-- contador de visitas -->
 
 
@@ -9,14 +9,14 @@
 <!--fim contador -->
 
 <div align="center" style="line-height: 0;">
-     <img src="lineBar.png" width="100%" height="5px" style="display: block; margin: 0; padding: 0;"/>
+     <img src="imgs/lineBar.png" width="100%" height="5px" style="display: block; margin: 0; padding: 0;"/>
 <table>
   <tr>
-    <td><img src="WELCOME.gif" alt="pagina1" width="500"/></td>
-    <td><img src="itsme.jpeg" alt="pagina2" width="300"/></td>
+    <td><img src="gifs/WELCOME.gif" alt="pagina1" width="500"/></td>
+    <td><img src="imgs/itsme.jpeg" alt="pagina2" width="300"/></td>
   </tr>
 </table>
- <img src="lineBar.png" width="100%" height="5px" style="display: block; margin: 0; padding: 0;"/>
+ <img src="imgs/lineBar.png" width="100%" height="5px" style="display: block; margin: 0; padding: 0;"/>
 </div>
 
 <!-- Sobre me -->
@@ -31,7 +31,7 @@
   <b>"But it's not about hitting hard. It's about how much you can take a beating and move on. How much are you able to take and keep trying. That's how you can win." - Rock Balboa</b>
 </div><br>
 
-☆ I am graduating in <b>Systems Analysis and Development</b> from Unifavip Wyden (2023-) and currently my focus of study has been <b> Data Science </b>. I have skills in data science with a focus on <b>python</b>, <b>SQL</b>, <b>Power BI</b>, <b>Excel</b>, <b>Machine Learning</b>, <b>Data Visualization</b> and <b>Big Data</b>. I also like learning new things and I seek to improve and develop more skills in the <b>Programming and Data area</b>. ☆
+☆ I am graduating in <b>Systems Analysis and Development</b> from Unifavip Wyden (2023-) and currently my focus of study has been <b> Data Analytics </b>. I have skills in data science with a focus on <b>python</b>, <b>SQL</b>, <b>Power BI</b>, <b>Excel</b>, <b>Machine Learning</b>, <b>Data Visualization</b> and <b>Big Data</b>. I also like learning new things and I seek to improve and develop more skills in the <b>Programming and Data area</b>. ☆
 
 
 <div align='center'>
@@ -48,11 +48,11 @@
   <table>
     <tr>
       <td><b>👨🏽‍🎓 Systems Analyst and Developer </b></td>
-      <td><b>👨🏽‍💻 Data Scientist</b></td>
+      <td><b>👨🏽‍💻 Data Analytics </b></td>
     </tr>
     <tr>
-      <td><img src="gatomaluco.webp" width="280px" height="200px"></td>
-      <td><img src="DataAnalytics.gif" width="280px" height="200px"> </td>
+      <td><img src="gifs/gatomaluco.webp" width="280px" height="200px"></td>
+      <td><img src="gifs/DataAnalytics.gif" width="280px" height="200px"> </td>
     </tr>
   </table>
 </div>
@@ -77,8 +77,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="lisa1.gif"  width="280px" height="200px"></td>
-      <td><img src="lisa2.gif"  width="280px" height="200px"></td>
+      <td><img src="gifs/lisa1.gif"  width="280px" height="200px"></td>
+      <td><img src="gifs/lisa2.gif"  width="280px" height="200px"></td>
     </tr>
   </table>
 </div>
@@ -126,7 +126,7 @@
     
 </div>
 <!-- Meu avatar -->
-<img src="analytics2.gif" min-width="250px" max-width="250px" width="300px" align="right" alt="meu avatar">
+<img src="gifs/analytics2.gif" min-width="250px" max-width="250px" width="300px" align="right" alt="meu avatar">
 <!-- Fim Avatar -->
 
 
