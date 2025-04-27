@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Dark%20Skin%20Tone.png" alt="Hand with Fingers Splayed Dark Skin Tone" width="35" height="35" /> Micael José de Lima -  Data & Back-end Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25"/>
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Dark%20Skin%20Tone.png" alt="Hand with Fingers Splayed Dark Skin Tone" width="35" height="35" /> Micael José de Lima -  Data & Back-end Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25"/>  <img src="https://cdn3.emoji.gg/emojis/7404-oldofficecomputer.png" alt="Bar Chart" width="25" height="25"/> 
 <!-- contador de visitas -->
 
 
