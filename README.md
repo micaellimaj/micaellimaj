@@ -31,8 +31,9 @@
   <b>"But it's not about hitting hard. It's about how much you can take a beating and move on. How much are you able to take and keep trying. That's how you can win." - Rock Balboa</b>
 </div><br>
 
-☆ I am graduating in <b>Systems Analysis and Development</b> from Unifavip Wyden (2023-) and currently my focus of study has been <b> Data Analytics </b>. I have skills in data science with a focus on <b>python</b>, <b>SQL</b>, <b>Power BI</b>, <b>Excel</b>, <b>Machine Learning</b>, <b>Data Visualization</b> and <b>Big Data</b>. I also like learning new things and I seek to improve and develop more skills in the <b>Programming and Data area</b>. ☆
+☆ I am currently pursuing a degree in <b>Systems Analysis and Development</b> at Unifavip Wyden (2023–2025), with a strong focus on <b>Data Analytics</b> and <b>Back-end Development</b>. I have hands-on experience with <b>Python</b>, <b>SQL</b>, <b>Power BI</b>, <b>Excel</b>, and <b>Machine Learning</b>, as well as skills in <b>Data Visualization</b>, <b>Big Data processing</b>, and <b>Web/Mobile Development.  </b> ☆ 
 
+❥ Passionate about technology and self-development, I’m always seeking to expand my knowledge in the fields of <b>Programming</b>, <b>Data Science</b>, and <b>Software Engineering</b>. ❥
 
 <div align='center'>
 
