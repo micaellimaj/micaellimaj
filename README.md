@@ -49,7 +49,7 @@
   <table>
     <tr>
       <td><b>👨🏽‍🎓 Systems Analyst and Developer </b></td>
-      <td><b>👨🏽‍💻 Data Analytics </b></td>
+      <td><b>👨🏽‍💻 Data & Back-end Developer </b></td>
     </tr>
     <tr>
       <td><img src="gifs/gatomaluco.webp" width="280px" height="200px"></td>
