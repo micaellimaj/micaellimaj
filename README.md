@@ -190,7 +190,8 @@ tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark
           
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:9C27B0&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:9C27B0&height=120&section=footer&text=If%20you%20also%20love%20turning%20chaos%20into%20insights%2C%20we%E2%80%99re%20on%20the%20same%20team!%20Thanks%20for%20stopping%20by!&fontColor=ffffff&fontAlign=50&fontAlignY=middle&fontSize=16" />
+
 
 
 
