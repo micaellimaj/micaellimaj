@@ -1,4 +1,4 @@
-# <img src="https://media1.giphy.com/media/31F4oKVS7MZcpLmI20/giphy.webp?cid=ecf05e471kmzbtl8w8blu1uyqdn59ucydc1zkinydr1kbklj&ep=v1_stickers_search&rid=giphy.webp&ct=s" alt="CAT" width="40" height="40" /> Micael José de Lima -  Data & Back-end Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25"/>  <img src="https://cdn3.emoji.gg/emojis/7404-oldofficecomputer.png" alt="Bar Chart" width="25" height="25"/> 
+# <img src="https://cdn3.emoji.gg/emojis/7404-oldofficecomputer.png" alt="Bar Chart" width="25" height="25"/>   Micael José de Lima -  Data & Back-end Developer <img src="https://media1.giphy.com/media/31F4oKVS7MZcpLmI20/giphy.webp?cid=ecf05e471kmzbtl8w8blu1uyqdn59ucydc1zkinydr1kbklj&ep=v1_stickers_search&rid=giphy.webp&ct=s" alt="CAT" width="40" height="40" />
 <!-- contador de visitas -->
 
 
