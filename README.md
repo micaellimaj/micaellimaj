@@ -12,7 +12,7 @@
      <img src="imgs/lineBar.png" width="100%" height="5px" style="display: block; margin: 0; padding: 0;"/>
 <table>
   <tr>
-    <td><img src="gifs/WELCOME.gif" alt="pagina1" width="500"/></td>
+    <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJiNzQyeXI5ejhoOWM4dnE0aWJ3YnZ3dGlsbWRrMnV5Y3g1eG02ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XD9o33QG9BoMis7iM4/giphy.gif" alt="pagina1" width="500"/></td>
     <td><img src="imgs/itsme.jpeg" alt="pagina2" width="300"/></td>
   </tr>
 </table>
@@ -53,7 +53,7 @@
     </tr>
     <tr>
       <td><img src="gifs/gatomaluco.webp" width="280px" height="200px"></td>
-      <td><img src="gifs/DataAnalytics.gif" width="280px" height="200px"> </td>
+      <td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJiczlnNWZoNzNjdHc3Z3o5MjFhMzV0NzE5Y2UzZTkxdnJ3cHhuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/grlkPWm6vpdRqZqMQV/giphy.gif" width="280px" height="200px"> </td>
     </tr>
   </table>
 </div>
@@ -78,8 +78,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="gifs/lisa1.gif"  width="280px" height="200px"></td>
-      <td><img src="gifs/lisa2.gif"  width="280px" height="200px"></td>
+      <td><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWkzMnZ2NWtwNnRrNHhtazdieWY2ZTZjOW9wbWJ0MWgxemk2aHcyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6MbrACMlFCny8zmw/giphy.gif"  width="280px" height="200px"></td>
+      <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWIwNWF4bmVubHM5ZWRtZ2s0cnZ1bWkwZjUyenk4a2o1ZnRiN3kybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2JdSDAAwdtVa4bzW/giphy.gif"  width="280px" height="200px"></td>
     </tr>
   </table>
 </div>
