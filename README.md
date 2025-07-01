@@ -130,7 +130,7 @@
     
 </div>
 <!-- Meu avatar -->
-<img src="gifs/analytics2.gif" min-width="250px" max-width="250px" width="300px" align="right" alt="meu avatar">
+<img src="gifs\frieren.gif" min-width="250px" max-width="250px" width="300px" align="right" alt="meu avatar">
 <!-- Fim Avatar -->
 
 
