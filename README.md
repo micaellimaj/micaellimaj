@@ -52,8 +52,8 @@
       <td><b>👨🏽‍💻 Data & Back-end Developer </b></td>
     </tr>
     <tr>
-      <td><img src="gifs\morty.gif" width="280px" height="150px"></td>
-      <td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJiczlnNWZoNzNjdHc3Z3o5MjFhMzV0NzE5Y2UzZTkxdnJ3cHhuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/grlkPWm6vpdRqZqMQV/giphy.gif" width="280px" height="150px"> </td>
+      <td><img src="gifs\morty.gif" width="250px" height="150px"></td>
+      <td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJiczlnNWZoNzNjdHc3Z3o5MjFhMzV0NzE5Y2UzZTkxdnJ3cHhuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/grlkPWm6vpdRqZqMQV/giphy.gif" width="250px" height="150px"> </td>
     </tr>
   </table>
 </div>
