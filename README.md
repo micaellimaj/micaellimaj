@@ -192,7 +192,7 @@ tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark
           
 </div>
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtkZjJyNWY1M3p5d2x5dXBsMTdub2RoemlrcDU3Z2dyejVpMm9vZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RyAuIdvXOugUw/giphy.gif" alt="Bar Chart" width="25" height="25"/>  More About me:
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtkZjJyNWY1M3p5d2x5dXBsMTdub2RoemlrcDU3Z2dyejVpMm9vZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RyAuIdvXOugUw/giphy.gif" alt="Bar Chart" width="35" height="35"/>  More About me:
 
 <div align="center" style="line-height: 0;">
 <table>
