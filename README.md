@@ -194,7 +194,18 @@ tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark
 
 ## More About me:
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6101kd6utvyvmil0gluzwtowz)
+<div align="center" style="line-height: 0;">
+<table>
+  <tr>
+    <td>
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=6101kd6utvyvmil0gluzwtowz" alt="Spotify" />
+    </td>
+    <td>
+      <img src="gifs/AdamScott.gif" alt="pagina2" width="380"/>
+    </td>
+  </tr>
+</table>
+</div>
 
 
 
