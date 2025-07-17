@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJiNzQyeXI5ejhoOWM4dnE0aWJ3YnZ3dGlsbWRrMnV5Y3g1eG02ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XD9o33QG9BoMis7iM4/giphy.gif" alt="pagina1" width="380"/></td>
-    <td><img src="gifs\AdamScott.gif" alt="pagina2" width="380"/></td>
+    <td><img src="gifs\PedroPascal.gif" alt="pagina2" width="380"/></td>
   </tr>
 </table>
  <img src="imgs/lineBar.png" width="100%" height="5px" style="display: block; margin: 0; padding: 0;"/>
