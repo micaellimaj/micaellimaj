@@ -1,12 +1,6 @@
 # <img src="https://cdn3.emoji.gg/emojis/7404-oldofficecomputer.png" alt="Bar Chart" width="25" height="25"/>   Micael José de Lima -  Data & Back-end Developer <img src="https://media1.giphy.com/media/31F4oKVS7MZcpLmI20/giphy.webp?cid=ecf05e471kmzbtl8w8blu1uyqdn59ucydc1zkinydr1kbklj&ep=v1_stickers_search&rid=giphy.webp&ct=s" alt="CAT" width="40" height="40" />
-<!-- contador de visitas -->
-
 
 </div>
-
-
-
-<!--fim contador -->
 
 <div align="center" style="line-height: 0;">
      <img src="imgs/lineBar.png" width="100%" height="5px" style="display: block; margin: 0; padding: 0;"/>
@@ -19,13 +13,9 @@
  <img src="imgs/lineBar.png" width="100%" height="5px" style="display: block; margin: 0; padding: 0;"/>
 </div>
 
-<!-- Sobre me -->
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=15&pause=1000&random=false&width=435&lines=%F0%9F%98%8E+hello%2C+welcome+to+my+profile!;%F0%9F%A4%93+check+my+projects!;%F0%9F%98%BA+feel+free+to+interact+with+me!;%F0%9F%99%8F+Let's+connect%3F+follow+me+on+LinkedIn+and+GitHub!)](https://git.io/typing-svg)
 
-
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/star_2b50.png" alt="Star" width="25" height="25" /> About Me:
-
 
 <div align='center'>
   <b>"But it's not about hitting hard. It's about how much you can take a beating and move on. How much are you able to take and keep trying. That's how you can win." - Rock Balboa</b>
@@ -41,10 +31,6 @@
 
 </div>
 
-
-<!-- Fim sobre me -->
-
-<!-- Areas de estudo -->
 <div align="center">
   <table>
     <tr>
@@ -58,9 +44,6 @@
   </table>
 </div>
 
-<!-- Fim áreas de estudo -->
-
-<!-- Sobre me-->
 <b> 
  
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="30" height="30" /> Beyond programming....</b>
@@ -70,11 +53,7 @@
 -  I like watching series of all genres and I usually watch sitcoms to familiarize myself with English.
 -  I love organization and I like making things visually beautiful, as it improves my efficiency, focus and learning. 
 -  I like hiking and spending time outdoors, having time to myself to refresh my mind and practice self-care.
-<!-- Fim Sobre me-->
 
-
-
-<!-- Lisa Simpsnos -->
 <div align="center">
   <table>
     <tr>
@@ -83,8 +62,6 @@
     </tr>
   </table>
 </div>
-
-<!-- Fim Lisa -->
 
 </div>
 
@@ -111,11 +88,7 @@
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="center" alt="prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-
 </div>
-
-
-
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Languages:
 <div>
@@ -125,27 +98,13 @@
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt="html Logo"  width="50px">
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="css Logo"  width="50px">
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript Logo"  width="50px">
-  
-    
-    
 </div>
-<!-- Meu avatar -->
-<img src="gifs\frieren.gif" min-width="250px" max-width="250px" width="300px" align="right" alt="meu avatar">
-<!-- Fim Avatar -->
 
+<img src="gifs\frieren.gif" min-width="250px" max-width="250px" width="300px" align="right" alt="meu avatar">
 
 
  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Python Libraries:
- <!--
-<div  align="left">
-<img src="Imagem1-pandas.jpg"  width="45" height="60" alt="pandas logo"  hspace="10" vspace="10">
-<img src="Imagem2-seaborn.jpg"  width="45" height="60"  alt="seaborn logo"  hspace="10" vspace="10">
-<img src="Imagem3-matplotlib.jpg"  width="45" height="60" alt="matplotlib logo"  hspace="10" vspace="10">
-<img src="Imagem4-sklearn.jpg"  width="45" height="60"  alt="sklearn logo"  hspace="10" vspace="10">
-<img src="Imagem5-plotly.jpg"  width="45" height="60"  alt="plotly logo"  hspace="10" vspace="10">
-<img src="Imagem6-Numpy.jpg"  width="45" height="60"  alt="numpy logo"  hspace="10" vspace="10">
--->
-
+ 
 <a href="https://pandas.pydata.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" />
 </a>
@@ -164,12 +123,7 @@
 <a href="https://scikit-learn.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="65" />
 </a>
-
-
-
 </div>
-
-
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" width="30" height="30" /> Contact:
 [<img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="40"/>](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
@@ -178,11 +132,6 @@
 
 ##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Dark%20Skin%20Tone.png" alt="Man Technologist Dark Skin Tone" width="25" height="25" /> Management:
 <img align="right" src="https://komarev.com/ghpvc/?username=micaellimaj&color=0000FF"><br>
-<!-- 
-theme=ocean_dark 
-tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark 
--->
-
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=micaellimaj&theme=cobalt) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=micaellimaj&hide=Html&theme=cobalt) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=micaellimaj&theme=cobalt) |
 | :-: | :-: | :-: |
@@ -207,19 +156,4 @@ tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark
 </table>
 </div>
 
-
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:9C27B0&height=120&section=footer&text=If%20you%20also%20love%20turning%20chaos%20into%20insights%2C%20we%E2%80%99re%20on%20the%20same%20team!%20Thanks%20for%20stopping%20by!&fontColor=ffffff&fontAlign=50&fontAlignY=middle&fontSize=16" />
-
-
-
-
-
-
-
-
-
-
-           
-          
