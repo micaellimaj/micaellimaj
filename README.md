@@ -38,7 +38,7 @@
       <td><b>👨🏽‍💻 Data & Back-end Developer </b></td>
     </tr>
     <tr>
-      <td><img src="gifs\morty.gif" width="250px" height="210px"></td>
+      <td><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnM4NTFia3hhbzM1bnV4azVlaHZocTBsaThvbnBodDd1NHFkNXhzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IeRt8pg9X2PPVbKV1W/giphy.gif" width="250px" height="210px"></td>
       <td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJiczlnNWZoNzNjdHc3Z3o5MjFhMzV0NzE5Y2UzZTkxdnJ3cHhuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/grlkPWm6vpdRqZqMQV/giphy.gif" width="250px" height="210px"> </td>
     </tr>
   </table>
@@ -150,7 +150,7 @@
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=6101kd6utvyvmil0gluzwtowz" alt="Spotify" />
     </td>
     <td>
-      <img src="gifs/AdamScott.gif" alt="pagina2" width="380"/>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG55YnNrOWN6b2o4bzZwMXB6bzNhcm84d3NqZWtzOWZuejF0YXB2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XjDZoIXRpaJjZY6VFI/giphy.gif" alt="pagina2" width="380"/>
     </td>
   </tr>
 </table>
