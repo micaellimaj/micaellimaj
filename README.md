@@ -141,19 +141,5 @@
           
 </div>
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtkZjJyNWY1M3p5d2x5dXBsMTdub2RoemlrcDU3Z2dyejVpMm9vZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RyAuIdvXOugUw/giphy.gif" alt="Bar Chart" width="35" height="35"/>  More About me:
-
-<div align="center" style="line-height: 0;">
-<table>
-  <tr>
-    <td>
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=6101kd6utvyvmil0gluzwtowz" alt="Spotify" />
-    </td>
-    <td>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG55YnNrOWN6b2o4bzZwMXB6bzNhcm84d3NqZWtzOWZuejF0YXB2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XjDZoIXRpaJjZY6VFI/giphy.gif" alt="pagina2" width="380"/>
-    </td>
-  </tr>
-</table>
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:9C27B0&height=120&section=footer&text=If%20you%20also%20love%20turning%20chaos%20into%20insights%2C%20we%E2%80%99re%20on%20the%20same%20team!%20Thanks%20for%20stopping%20by!&fontColor=ffffff&fontAlign=50&fontAlignY=middle&fontSize=16" />
