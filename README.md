@@ -20,13 +20,16 @@
   <b>"But it's not about hitting hard. It's about how much you can take a beating and move on. How much are you able to take and keep trying. That's how you can win." - Rock Balboa</b>
 </div><br>
 
-☆ I am currently pursuing a degree in <b>Systems Analysis and Development</b> at Unifavip Wyden (2023–2025), with a strong focus on <b>Data Analytics</b> and <b>Back-end Development</b>. I have hands-on experience with <b>Python</b>, <b>SQL</b>, <b>Power BI</b>, <b>Excel</b>, and <b>Machine Learning</b>, as well as skills in <b>Data Visualization</b>, <b>Big Data processing</b>, and <b>Web/Mobile Development.  </b> ☆ 
+☆ I have a degree in <b>Systems Analysis and Development</b> from Unifavip Wyden (2023–2025), focusing on <b>Data Analysis</b> and <b>Back-end Development</b>. I have practical experience with <b>Python</b>, 
+<b>Node.js</b>,
+<b>React</b> 
+<b>SQL</b>, <b>Power BI</b>, <b>Excel</b> and <b>Machine Learning</b>, as well as skills in <b>Data Visualization</b>, <b>Big Data Processing</b> and <b>Web/Mobile Development</b>. ☆
 
 ❥ Passionate about technology and self-development, I’m always seeking to expand my knowledge in the fields of <b>Programming</b>, <b>Data Science</b>, and <b>Software Engineering</b>. ❥
 
 <div align='center'>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> To learn more about my projects visit my [Data Analyst Portfolio](https://bit.ly/Micael-Lima-Analista-de-dados-Portfolio) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> To learn more about my projects visit my [Data Dev Portfolio](https://bit.ly/Micael-Lima-Analista-de-dados-Portfolio) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" />
 
 </div>
 
@@ -66,7 +69,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Tools:
 
-<div align="center">       
+<div align="center">        
   <img align="center" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="pacote office Logo">
   <img align="center" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws Logo">
   <img align="center" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="colab Logo">
@@ -79,10 +82,12 @@
   <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img align="center" alt="fastapi" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img align="center" alt="nestjs" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img align="center" alt="sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
   <img align="center" alt="firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -129,7 +134,7 @@
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" width="30" height="30" /> Contact:
-[<img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="40"/>](https://www.linkedin.com/in/micael-jos%C3%A9-67194719b/)
+[<img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="40"/>](https://www.linkedin.com/in/micael-lima-backend-dados/)
 [<img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png" width="40"/>](mailto:micaeljose144@gmail.com)
 
 
