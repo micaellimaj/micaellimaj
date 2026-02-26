@@ -20,10 +20,17 @@
   <b>"But it's not about hitting hard. It's about how much you can take a beating and move on. How much are you able to take and keep trying. That's how you can win." - Rock Balboa</b>
 </div><br>
 
-☆ I have a degree in <b>Systems Analysis and Development</b> from Unifavip Wyden (2023–2025), focusing on <b>Data Analysis</b> and <b>Back-end Development</b>. I have practical experience with <b>Python</b>, 
+☆ 
+I have a degree in <b>Systems Analysis and Development</b> from <b>Unifavip Wyden</b> (2023–2025), focusing on <b>Data Analysis</b> and <b>Back-end Development</b>. 
+I am currently pursuing a postgraduate specialization in <b>Data Engineering and Artificial Intelligence</b> at <b>XPeriun</b>, further strengthening my expertise in modern data architectures and AI-driven solutions.
+
+I have practical experience with <b>Python</b>, 
 <b>Node.js</b>,
-<b>React</b> 
-<b>SQL</b>, <b>Power BI</b>, <b>Excel</b> and <b>Machine Learning</b>, as well as skills in <b>Data Visualization</b>, <b>Big Data Processing</b> and <b>Web/Mobile Development</b>. ☆
+<b>React</b>, 
+<b>SQL</b>, 
+<b>Power BI</b>, 
+<b>Excel</b> and <b>Machine Learning</b>, as well as skills in <b>Data Visualization</b>, <b>Big Data Processing</b> and <b>Web/Mobile Development</b>. 
+☆
 
 ❥ Passionate about technology and self-development, I’m always seeking to expand my knowledge in the fields of <b>Programming</b>, <b>Data Science</b>, and <b>Software Engineering</b>. ❥
 
@@ -36,8 +43,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><b>👨🏽‍🎓 Systems Analyst and Developer </b></td>
-      <td><b>👨🏽‍💻 Data & Back-end Developer </b></td>
+      <td><b>👨🏽‍🎓 Systems Developer / Data & IA</b></td>
+      <td><b>👨🏽‍💻 Data & Developer </b></td>
     </tr>
     <tr>
       <td><img src="gifs/morty.gif" width="250px" height="210px"></td>
