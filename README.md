@@ -14,7 +14,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=15&pause=1000&random=false&width=435&lines=%F0%9F%98%8E+hello%2C+welcome+to+my+profile!;%F0%9F%A4%93+check+my+projects!;%F0%9F%98%BA+feel+free+to+interact+with+me!;%F0%9F%99%8F+Let's+connect%3F+follow+me+on+LinkedIn+and+GitHub!)](https://git.io/typing-svg)
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/star_2b50.png" alt="Star" width="25" height="25" /> About Me:
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBvNnc1ZDlnMGE4aHdqdjJkNDlkam15NnRuYjQxNnA5aTQ0NDZmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d8o3iSWN648pGfmrcc/giphy.gif" alt="Star" width="25" height="25" /> About Me:
 
 <div align='center'>
   <b>"But it's not about hitting hard. It's about how much you can take a beating and move on. How much are you able to take and keep trying. That's how you can win." - Rock Balboa</b>
@@ -36,7 +36,7 @@ I have practical experience with <b>Python</b>,
 
 <div align='center'>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> To learn more about my projects visit my [Data Dev Portfolio](https://bit.ly/Micael-Lima-Analista-de-dados-Portfolio) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FwdTVjcmh5Mzhuc2p6bXRpbmsxMnVnZ2ozc2QydXh0bmxoOW9nbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fhYmmXn9PUbYv81wEI/giphy.gif" alt="demon slayer" width="25" height="25" /> To learn more about my projects visit my [Data Dev Portfolio](https://bit.ly/Micael-Lima-Analista-de-dados-Portfolio) <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVkMDNjOXRqNXJhbHZ6ajB5d2ExaW1xdTBhd29icDQxeXRzYWpmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qSmYjCygSR6xZeEUon/giphy.gif" alt="demon slayer" width="25" height="25" />
 
 </div>
 
@@ -55,7 +55,7 @@ I have practical experience with <b>Python</b>,
 
 <b> 
  
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="30" height="30" /> Beyond programming....</b>
+### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZnNjN3dXp0Ymx6eWU5aWx2MWMwcmFwMmRlZm53dzF2bGlocTBmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hhBaEyjUQNZBwrwGva/giphy.gif" alt="Dan da Dan" width="30" height="30" /> Beyond programming....</b>
 
 
 -  I love listening to music on Spotify, especially international music, my preferences are pop, indie and Latin music.
@@ -74,7 +74,7 @@ I have practical experience with <b>Python</b>,
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Tools:
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2w0OG5wNXdkdzY4cnZhcDZnZGFoMnF6b2ExaHkwcGRsOXd5cmN3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sF09xNcxpDfedngWkX/giphy.gif" alt="sakamoto" width="30" height="30" /> Tools:
 
 <div align="center">        
   <img align="center" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="pacote office Logo">
@@ -105,7 +105,7 @@ I have practical experience with <b>Python</b>,
   <img align="center" alt="render" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Languages:
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRxZm84bjB4M3M2NDBseGl5bjZrdTZydWJxMW9vZzM2bTA5MHVubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uwLmhT7TMcCNNVItcZ/giphy.gif" alt="Gojo" width="25" height="25" /> Languages:
 <div>
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python Logo"  width="50px">
     <img src="https://cdn-icons-png.flaticon.com/128/9544/9544010.png" alt="sql Logo"  width="50px">
@@ -118,7 +118,7 @@ I have practical experience with <b>Python</b>,
 <img src="gifs\frieren.gif" min-width="250px" max-width="250px" width="300px" align="right" alt="meu avatar">
 
 
- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Python Libraries:
+ ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3oyZjQxa29hbnk0anRzc3Q3aWZ2bjc2N3cyczJ6cTBocWs1azZ0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zZC2AqB84z7zFnlkbF/giphy.gif" alt="annya" width="25" height="25" /> Python Libraries:
  
 <a href="https://pandas.pydata.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" />
@@ -140,12 +140,12 @@ I have practical experience with <b>Python</b>,
 </a>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" width="30" height="30" /> Contact:
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGtnZW11dDBiZGcwOWxuZHg3ajJrZDh6aHFzNG5wMGVuMXVka3NiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENvGlMWPFcv5k4busx/giphy.gif" alt="apothecary" width="30" height="30" /> Contact:
 [<img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="40"/>](https://www.linkedin.com/in/micael-lima-backend-dados/)
 [<img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png" width="40"/>](mailto:micaeljose144@gmail.com)
 
 
-##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Dark%20Skin%20Tone.png" alt="Man Technologist Dark Skin Tone" width="25" height="25" /> Management:
+##  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTk3MWVuYTV4b2RleWwwd2U1dzlhdDJ3dzBjenA0NGFhcmlyZnppdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kXd11dN48yOwrpOCtt/giphy.gif" alt="Man Technologist Dark Skin Tone" width="25" height="25" /> Management:
 <img align="right" src="https://komarev.com/ghpvc/?username=micaellimaj&color=0000FF"><br>
 
 
