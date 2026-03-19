@@ -36,7 +36,7 @@ I have practical experience with <b>Python</b>,
 
 <div align='center'>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FwdTVjcmh5Mzhuc2p6bXRpbmsxMnVnZ2ozc2QydXh0bmxoOW9nbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fhYmmXn9PUbYv81wEI/giphy.gif" alt="demon slayer" width="25" height="25" /> To learn more about my projects visit my [Data Dev Portfolio](https://bit.ly/Micael-Lima-Analista-de-dados-Portfolio) <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVkMDNjOXRqNXJhbHZ6ajB5d2ExaW1xdTBhd29icDQxeXRzYWpmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qSmYjCygSR6xZeEUon/giphy.gif" alt="demon slayer" width="25" height="25" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FwdTVjcmh5Mzhuc2p6bXRpbmsxMnVnZ2ozc2QydXh0bmxoOW9nbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fhYmmXn9PUbYv81wEI/giphy.gif" alt="demon slayer" width="25" height="25" /> To learn more about my projects visit my [Data Dev Portfolio](https://portfolio-drab-eta-39.vercel.app/) <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVkMDNjOXRqNXJhbHZ6ajB5d2ExaW1xdTBhd29icDQxeXRzYWpmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qSmYjCygSR6xZeEUon/giphy.gif" alt="demon slayer" width="25" height="25" />
 
 </div>
 
