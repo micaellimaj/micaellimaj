@@ -103,6 +103,11 @@ I have practical experience with <b>Python</b>,
   <img align="center" alt="prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img align="center" alt="neon" src="https://img.shields.io/badge/Neon-008CFF?style=for-the-badge&logo=neondatabase&logoColor=white" />
   <img align="center" alt="render" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img align="center" alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img align="center" alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img align="center" alt="OpenAI" src="https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img align="center" alt="expo" src="https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+     
 </div>
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRxZm84bjB4M3M2NDBseGl5bjZrdTZydWJxMW9vZzM2bTA5MHVubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uwLmhT7TMcCNNVItcZ/giphy.gif" alt="Gojo" width="25" height="25" /> Languages:
