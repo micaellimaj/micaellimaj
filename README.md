@@ -106,6 +106,10 @@ I have practical experience with <b>Python</b>,
 </div>
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRxZm84bjB4M3M2NDBseGl5bjZrdTZydWJxMW9vZzM2bTA5MHVubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uwLmhT7TMcCNNVItcZ/giphy.gif" alt="Gojo" width="25" height="25" /> Languages:
+
+<img src="gifs\frieren.gif" min-width="250px" max-width="250px" width="300px" align="right" alt="meu avatar">
+
+
 <div>
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python Logo"  width="50px">
     <img src="https://cdn-icons-png.flaticon.com/128/9544/9544010.png" alt="sql Logo"  width="50px">
@@ -115,38 +119,18 @@ I have practical experience with <b>Python</b>,
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript Logo"  width="50px">
 </div>
 
-<img src="gifs\frieren.gif" min-width="250px" max-width="250px" width="300px" align="right" alt="meu avatar">
 
 
- ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3oyZjQxa29hbnk0anRzc3Q3aWZ2bjc2N3cyczJ6cTBocWs1azZ0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zZC2AqB84z7zFnlkbF/giphy.gif" alt="annya" width="25" height="25" /> Python Libraries:
- 
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" />
-</a>
-<a href="https://numpy.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" />
-</a>
-<a href="https://seaborn.pydata.org/" target="_blank">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" />
-</a>
-<a href="https://matplotlib.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" />
-</a>
-<a href="https://plotly.com/" target="_blank">
-  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="50" />
-</a>
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="65" />
-</a>
-</div>
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGtnZW11dDBiZGcwOWxuZHg3ajJrZDh6aHFzNG5wMGVuMXVka3NiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENvGlMWPFcv5k4busx/giphy.gif" alt="apothecary" width="30" height="30" /> Contact:
-[<img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="40"/>](https://www.linkedin.com/in/micael-lima-backend-dados/)
-[<img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png" width="40"/>](mailto:micaeljose144@gmail.com)
+[<img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="50"/>](https://www.linkedin.com/in/micael-lima-backend-dados/)
+[<img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png" width="50"/>](mailto:micaeljose144@gmail.com)
 
 
 ##  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTk3MWVuYTV4b2RleWwwd2U1dzlhdDJ3dzBjenA0NGFhcmlyZnppdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kXd11dN48yOwrpOCtt/giphy.gif" alt="Man Technologist Dark Skin Tone" width="25" height="25" /> Management:
-<img align="right" src="https://komarev.com/ghpvc/?username=micaellimaj&color=0000FF"><br>
+
+
+<img align="left" src="https://komarev.com/ghpvc/?username=micaellimaj&color=0000FF"><br>
 
 
 
